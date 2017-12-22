@@ -2,7 +2,7 @@
 
 A custom keyboard for Android devices for inputting Rubix cube algorithms.
 
-[screentshot.png](A screenshot)
+[screenshot.png](A screenshot)
 
 ## Development
 
