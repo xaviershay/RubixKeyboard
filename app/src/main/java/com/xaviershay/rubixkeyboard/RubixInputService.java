@@ -4,12 +4,8 @@ import android.inputmethodservice.InputMethodService;
 import android.inputmethodservice.Keyboard;
 import android.inputmethodservice.KeyboardView;
 import android.text.TextUtils;
-import android.util.Log;
 import android.view.View;
 import android.view.inputmethod.InputConnection;
-
-import java.util.Arrays;
-
 
 public class RubixInputService extends InputMethodService implements KeyboardView.OnKeyboardActionListener {
 
